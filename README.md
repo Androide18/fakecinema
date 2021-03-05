@@ -6,8 +6,8 @@ Project using:
 - OMDb API - RESTful web service
 
 
-RUN APP:
-1 - Go to fakecinema folder.
+RUN APP: <br>
+1 - Go to fakecinema folder. <br>
 2 - Run "ionic serve" in terminal.
 
 Enjoy :)
