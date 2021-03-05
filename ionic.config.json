@@ -1,0 +1,7 @@
+{
+  "name": "prexcinema",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
